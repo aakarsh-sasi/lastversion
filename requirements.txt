@@ -1,0 +1,8 @@
+# docs/requirements.txt
+lastversion
+mkdocs==1.2.1
+mkdocs-material
+mkdocstrings
+markdown-include
+pymdown-extensions
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
